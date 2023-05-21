@@ -9,8 +9,8 @@
     <string name="appswitch_button">=</string>
     <string name="home_button">o</string>
     <string name="back_button">v</string>
-    <string name="switch0">No Control  (check this if remote device control is not required)</string>
-    <string name="switch1">Nav Bar  (check this if remote device does not have on-screen nav bar)</string>
+    <string name="switch0" translatable="false">No Control  (check this if remote device control is not required)</string>
+    <string name="switch1" translatable="false">Nav Bar  (check this if remote device does not have on-screen nav bar)</string>
 
 
     <string-array name="options_resolution_keys">
